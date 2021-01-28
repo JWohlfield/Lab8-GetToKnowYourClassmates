@@ -1,12 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 
+    //  Author: Jeffrey Wohlfield
+    //  Date:   01-27-2021
+
 namespace Lab8_GetToKnowYourClassmates
 {
     class Program
     {
         static void Main(string[] args)
         {
+            //  Create lists to store all data
             List<string> names = new List<string>()
             {
                 "Ramon", "Antonio", "Joshua", "Nick", "Jeremiah", "Wendi", "Juliana",
@@ -32,6 +36,7 @@ namespace Lab8_GetToKnowYourClassmates
 
             while (true)
             {
+                //  Prompt for user input to pick a student
                 Console.Write($"Which student would you like to lean more about? (enter a number 1-{names.Count}) ");
                 string input = Console.ReadLine();
 
@@ -76,6 +81,7 @@ namespace Lab8_GetToKnowYourClassmates
                     break;
                 }
             }
+            Console.WriteLine("Good bye!");
         }
 
         public static int GetStudentID(List<string> names, string input)
