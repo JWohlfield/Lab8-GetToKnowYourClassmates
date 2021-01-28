@@ -13,8 +13,8 @@ namespace Lab8_GetToKnowYourClassmates
             //  Create lists to store all data
             List<string> names = new List<string>()
             {
-                "Ramon", "Antonio", "Joshua", "Nick", "Jeremiah", "Wendi", "Juliana",
-                "Nathaniel", "Tommy", "Grace", "Jeffrey", "Josh", "Stephen"
+                "Ramon Guarnes", "Antonio Manzari", "Joshua Carolin", "Nick D'Oria", "Jeremiah Wyeth", "Wendi Magee", "Juliana TheCoder",
+                "Nathaniel Davis", "Tommy Waalkes", "Grace Seymore", "Jeffrey Wohlfield", "Josh Gallentine", "Stephen Jedlicki"
             };
             
             List<string> towns = new List<string>()
@@ -48,7 +48,8 @@ namespace Lab8_GetToKnowYourClassmates
                 }
 
                 studentName = names[studentID];
-                Console.WriteLine($"Student {studentID} is {studentName}. What would you like to know about {studentName}?");
+                Console.WriteLine($"Student {studentID + 1} is {studentName}. What would you like to know about " +
+                    $"{studentName.Substring(0, studentName.IndexOf(" "))}?");
                     do
                     {
                         Console.Write($"(enter \"hometown\" or \"favorite food\") ");
