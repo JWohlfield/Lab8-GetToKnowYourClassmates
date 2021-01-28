@@ -1,0 +1,13 @@
+C:\Users\Butch\source\repos\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassmates.exe
+C:\Users\Butch\source\repos\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassmates.deps.json
+C:\Users\Butch\source\repos\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassmates.runtimeconfig.json
+C:\Users\Butch\source\repos\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassmates.runtimeconfig.dev.json
+C:\Users\Butch\source\repos\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassmates.dll
+C:\Users\Butch\source\repos\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassmates.pdb
+C:\Users\Butch\source\repos\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassmates.csprojAssemblyReference.cache
+C:\Users\Butch\source\repos\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassmates.AssemblyInfoInputs.cache
+C:\Users\Butch\source\repos\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassmates.AssemblyInfo.cs
+C:\Users\Butch\source\repos\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassmates.csproj.CoreCompileInputs.cache
+C:\Users\Butch\source\repos\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassmates.dll
+C:\Users\Butch\source\repos\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassmates.pdb
+C:\Users\Butch\source\repos\Labs\Lab8-GetToKnowYourClassmates\Lab8-GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\Lab8-GetToKnowYourClassmates.genruntimeconfig.cache
