@@ -81,7 +81,7 @@ namespace Lab8_GetToKnowYourClassmates
                     break;
                 }
             }
-            Console.WriteLine("Good bye!");
+            Console.WriteLine("Goodbye!");
         }
 
         public static int GetStudentID(List<string> names, string input)
@@ -89,8 +89,8 @@ namespace Lab8_GetToKnowYourClassmates
             int selection;
             try
             {
-                selection = int.Parse(input);
-                
+                selection = int.Parse(input) - 1;
+                string studentName = names[selection];
                 return selection;
 
             }
